@@ -1,0 +1,24 @@
+{
+  "name": "url-shortner-micro-fcc",
+  "version": "1.0.0",
+  "description": "FCC url shortner micro service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shabeebrp/url-shortner-micro-fcc.git"
+  },
+  "author": "shabeebrp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shabeebrp/url-shortner-micro-fcc/issues"
+  },
+  "homepage": "https://github.com/shabeebrp/url-shortner-micro-fcc#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongodb": "^2.1.19"
+  }
+}
