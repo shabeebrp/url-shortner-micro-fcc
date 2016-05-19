@@ -19,6 +19,7 @@
   "homepage": "https://github.com/shabeebrp/url-shortner-micro-fcc#readme",
   "dependencies": {
     "express": "^4.13.4",
-    "mongodb": "^2.1.19"
+    "mongodb": "^2.1.19",
+    "valid-url": "^1.0.9"
   }
 }
